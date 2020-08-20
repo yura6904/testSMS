@@ -1,0 +1,28 @@
+* {
+    text-decoration: none;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 18px;
+    margin-top: 1em;
+}
+body {
+    background-color: rgb(24, 146, 218);
+    color: #ffffff;
+    text-align: center;
+    align-items: center;
+
+}
+
+.content {  
+    padding: 2em;
+}
+.saveBtn {
+    height: 55px;
+    width: 130px;
+    border-radius: 6px;
+    background-color: rgb(140, 240, 10);
+}
+.message {
+    height: 300px;
+    width: 600px;
+    resize: none;
+}
